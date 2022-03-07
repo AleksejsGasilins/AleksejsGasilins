@@ -13,4 +13,5 @@ C# | .NET | Relational Databses & SQL | HTTP & Web API Basics | Unit Testing | G
 |Details|
 
 Phone number: +37127563275
+
 Mail: aleksejsgasilins@gmail.com
