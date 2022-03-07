@@ -1,4 +1,4 @@
-About Me: 
+|About Me| 
 
 Hi! My name is Aleksejs. I'm app developer from Latvia.
 
@@ -6,11 +6,11 @@ At school, in a computer science lesson, I was introduced to the HTML, after whi
 
 I have a dream. And I'll reach it!
 
-My Skills:
+|My Skills|
 
 C# | .NET | Relational Databses & SQL | HTTP & Web API Basics | Unit Testing | Git | Test Driven Development | Clean Code, SOLID | Design Patterns | HTML & CSS | VueJS | TypeScript | NodeJS basics
 
-Details:
+|Details|
 
 Phone number: +37127563275
 Mail: aleksejsgasilins@gmail.com
