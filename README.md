@@ -1,8 +1,8 @@
 |About Me| 
 
-Hi! My name is Aleksejs. I'm app developer from Latvia.
+Hi! My name is Aleksejs. I'm C# / .net developer from Latvia.
 
-At school, in a computer science lesson, I was introduced to the HTML, after which I wanted to start learning other programming languages. I'm currently learning C#, but I'm always open to learning new things.
+At school, I first began to study programming, which interested me very much. I am currently working with C# and learning to work with Unity. I am always open to learning new things.
 
 I have a dream. And I'll reach it!
 
